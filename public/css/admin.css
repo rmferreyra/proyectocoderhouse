@@ -1,0 +1,29 @@
+#page-background {
+    background-color:rgb(21, 18, 207)
+}
+
+#page-title {
+    text-align: center;
+    font-weight: bold;
+    color: black;
+}
+
+.img {
+    display: none;
+}
+
+.user {
+    display: none;
+}
+
+.boton {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border: solid 1px rgb(255, 0, 0);
+    border-radius: 10px;
+}
+
+.boton:hover {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}

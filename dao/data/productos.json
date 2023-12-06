@@ -1,0 +1,80 @@
+[
+  {
+    "status": true,
+    "title": "Montana",
+    "description": "Tour por Alta Montaña con degustaciones varias",
+    "code": "a20",
+    "price": 9500,
+    "stock": 2,
+    "category": "Tour",
+    "thumbnail": [
+      "static/img/montana.jpg"
+    ],
+    "id": 1
+  },
+  {
+    "status": true,
+    "title": "Bodega",
+    "description": "Paseo y almuerzo por bodega",
+    "code": "a21",
+    "price": 15000,
+    "stock": 1,
+    "category": "Bodegas",
+    "thumbnail": [
+      "static/img/bodega.jpg"
+    ],
+    "id": 2
+  },
+  {
+    "status": true,
+    "title": "City",
+    "description": "City Tour con almuerzo",
+    "code": "a22",
+    "price": 12000,
+    "stock": 1,
+    "category": "Almuerzo",
+    "thumbnail": [
+      "static/img/city.jpg"
+    ],
+    "id": 3
+  },
+  {
+    "status": true,
+    "title": "Montana",
+    "description": "Tour por Alta Montaña",
+    "code": "a23",
+    "price": 6000,
+    "stock": 15,
+    "category": "Tour",
+    "thumbnail": [
+      "static/img/montana.jpg"
+    ],
+    "id": 4
+  },
+  {
+    "status": true,
+    "title": "Bodega",
+    "description": "Paseo por bodega",
+    "code": "a24",
+    "price": 10000,
+    "stock": 15,
+    "category": "Bodegas",
+    "thumbnail": [
+      "static/img/bodega.jpg"
+    ],
+    "id": 5
+  },
+  {
+    "status": true,
+    "title": "City",
+    "description": "City Tour",
+    "code": "a25",
+    "price": 7000,
+    "stock": 15,
+    "category": "Paseos",
+    "thumbnail": [
+      "static/img/city.jpg"
+    ],
+    "id": 6
+  }
+]
