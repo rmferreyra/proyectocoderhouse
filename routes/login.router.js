@@ -85,7 +85,7 @@ const login = async (req, res) => {
             })
         }
 
-        if(_user.email == "adminCoder@coder.com" && password == "adminCod3r123"){
+        if(_user.email == "admincoder@coder.com" && password == "admincodrr1234"){
 
             req.session.user = {
                 name: user.first_name,
